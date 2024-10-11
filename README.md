@@ -30,6 +30,7 @@ Below are the datasets used along with their download links:
    python FedAvg_intervention_ada.py # Run FedAvg algorithm with added adaptive causal intervention module
 ```
 
+2. Project Structure
 Fed-CIA/  
 ├── dataset/  
 │   └── *All Dataset*  
